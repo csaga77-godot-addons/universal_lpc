@@ -52,4 +52,4 @@ Runtime actors consume these prebuilt outputs. Metadata and combined sprites mus
 
 ## Licensing And Attribution
 
-Universal LPC artwork has per-asset licensing and attribution requirements. Review the upstream generator's `README.md` and `CREDITS.csv`, preserve the required credits for every selected asset, and confirm that each asset's license is compatible with the intended distribution platform.
+Universal LPC artwork has per-asset licensing and attribution requirements. Review the upstream generator's `README.md` plus this repository's [`artwork_credits/CREDITS.csv`](../artwork_credits/CREDITS.csv) and [`artwork_credits/ARTWORK_LICENSING.md`](../artwork_credits/ARTWORK_LICENSING.md), preserve the required credits for every selected asset, and confirm that each asset's license is compatible with the intended distribution platform.

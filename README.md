@@ -41,7 +41,7 @@ Development-time regeneration and source auditing read an optional upstream chec
 
 ## Artwork Licensing And Attribution
 
-Universal LPC artwork has per-asset licensing and attribution requirements. Preserve and distribute this repository's [`CREDITS.csv`](CREDITS.csv), review [`ARTWORK_LICENSING.md`](ARTWORK_LICENSING.md), and confirm that every selected asset's license is compatible with your distribution platform.
+Universal LPC artwork has per-asset licensing and attribution requirements. Preserve and distribute this repository's [`artwork_credits/CREDITS.csv`](artwork_credits/CREDITS.csv), review [`artwork_credits/ARTWORK_LICENSING.md`](artwork_credits/ARTWORK_LICENSING.md), and confirm that every selected asset's license is compatible with your distribution platform. The attribution folder contains `.gdignore` so Godot does not misinterpret the credits CSV as localization data.
 
 ## Documentation
 
